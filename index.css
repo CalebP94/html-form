@@ -1,0 +1,19 @@
+form{
+    display:flex;
+    flex-direction: column;
+}
+
+.form{
+    display:flex;
+    flex-direction: column; 
+    margin: 10px 10px 10px 10px;
+}
+
+textarea{
+    height: 200px; 
+}
+
+button{
+    width:75px;
+    margin: 10px 10px 10px 10px;
+}
